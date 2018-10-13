@@ -1,0 +1,26 @@
+{
+  "name": "a2z-backend",
+  "version": "1.0.0",
+  "description": "backend of a2z resources",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipakkr/a2z-backend.git"
+  },
+  "author": "deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dipakkr/a2z-backend/issues"
+  },
+  "homepage": "https://github.com/dipakkr/a2z-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0"
+  }
+}
